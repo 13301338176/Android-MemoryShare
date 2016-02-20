@@ -1,182 +1,179 @@
-obj/local/armeabi/objs/lwhelper/com_alibaba_laiwang_android_MemoryShare.o: \
- jni/com_alibaba_laiwang_android_MemoryShare.cpp \
- jni/com_alibaba_laiwang_android_MemoryShare.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/jni.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/cdefs.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/cdefs_elf.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/android/api-level.h \
- jni/Memoryshare.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/stdio.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/types.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/stdint.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/_types.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/machine/_types.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/posix_types.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/stddef.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/compiler.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm/posix_types.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm/types.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/types.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/machine/kernel.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/sysmacros.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/string.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/malloc.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/stdlib.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/alloca.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/strings.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/memory.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/inttypes.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/fcntl.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/fcntl.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm/fcntl.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm-generic/fcntl.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/unistd.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/select.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/time.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/time.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/signal.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/limits.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/limits.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/limits.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/machine/internal_types.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/machine/limits.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/syslimits.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm/page.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm/signal.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm-generic/signal.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm/sigcontext.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm/siginfo.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm-generic/siginfo.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/sysconf.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/capability.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/pathconf.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/stat.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/stat.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/endian.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/endian.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/machine/endian.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/pthread.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/time.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sched.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/dlfcn.h \
- /Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/android/log.h
+D:/github/Android-MemoryShare//obj/local/armeabi/objs/lwhelper/com_alibaba_laiwang_android_MemoryShare.o: \
+ D:/github/Android-MemoryShare//jni/com_alibaba_laiwang_android_MemoryShare.cpp \
+ D:/github/Android-MemoryShare//jni/com_alibaba_laiwang_android_MemoryShare.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/jni.h \
+ D:/github/Android-MemoryShare//jni/Memoryshare.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/stdio.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/cdefs.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/cdefs_elf.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/android/api-level.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/types.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/stdint.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/_types.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/machine/_types.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/posix_types.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/stddef.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/compiler.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm/posix_types.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm/types.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/types.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/machine/kernel.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/sysmacros.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/string.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/malloc.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/stdlib.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/alloca.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/strings.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/memory.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/inttypes.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/fcntl.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/fcntl.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm/fcntl.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm-generic/fcntl.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/unistd.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/select.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/time.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/time.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/signal.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/limits.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/limits.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/limits.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/machine/internal_types.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/machine/limits.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/syslimits.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm/page.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm/signal.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm-generic/signal.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm/siginfo.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm-generic/siginfo.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/sysconf.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/capability.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/pathconf.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/stat.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/stat.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/endian.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/endian.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/machine/endian.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/pthread.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/time.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sched.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/dlfcn.h \
+ D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/android/log.h
 
-jni/com_alibaba_laiwang_android_MemoryShare.h:
+D:/github/Android-MemoryShare//jni/com_alibaba_laiwang_android_MemoryShare.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/jni.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/jni.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/cdefs.h:
+D:/github/Android-MemoryShare//jni/Memoryshare.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/cdefs_elf.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/stdio.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/android/api-level.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/cdefs.h:
 
-jni/Memoryshare.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/cdefs_elf.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/stdio.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/android/api-level.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/types.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/types.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/stdint.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/stdint.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/_types.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/_types.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/machine/_types.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/machine/_types.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/posix_types.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/posix_types.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/stddef.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/stddef.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/compiler.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/compiler.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm/posix_types.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm/posix_types.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm/types.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm/types.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/types.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/types.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/machine/kernel.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/machine/kernel.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/sysmacros.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/sysmacros.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/string.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/string.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/malloc.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/malloc.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/stdlib.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/stdlib.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/alloca.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/alloca.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/strings.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/strings.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/memory.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/memory.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/inttypes.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/inttypes.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/fcntl.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/fcntl.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/fcntl.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/fcntl.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm/fcntl.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm/fcntl.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm-generic/fcntl.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm-generic/fcntl.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/unistd.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/unistd.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/select.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/select.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/time.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/time.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/time.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/time.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/signal.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/signal.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/limits.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/limits.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/limits.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/limits.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/limits.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/limits.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/machine/internal_types.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/machine/internal_types.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/machine/limits.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/machine/limits.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/syslimits.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/syslimits.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm/page.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm/page.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm/signal.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm/signal.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm-generic/signal.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm-generic/signal.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm/sigcontext.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm/siginfo.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm/siginfo.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/asm-generic/siginfo.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/asm-generic/siginfo.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/sysconf.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/sysconf.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/capability.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/capability.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/pathconf.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/pathconf.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/stat.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/stat.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/linux/stat.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/linux/stat.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/endian.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/endian.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sys/endian.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sys/endian.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/machine/endian.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/machine/endian.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/pthread.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/pthread.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/time.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/time.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/sched.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/sched.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/dlfcn.h:
 
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/dlfcn.h:
-
-/Users/i-mac/i-jdan/MySDK/android-ndk-r9b/platforms/android-19/arch-arm/usr/include/android/log.h:
+D:/dev/android-ndk-r8e/platforms/android-3/arch-arm/usr/include/android/log.h:

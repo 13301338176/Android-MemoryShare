@@ -17,12 +17,12 @@ public class MemoryClient {
 
 	private MemoryConnection mMemoryConnection = null;
 	private IMemoryShare mIMemoryShareProxy = null;
-	private MemoryShare mMemoryShare; 
+	private MemoryShare mMemoryShare;
 
 	public void readSHM() {
-		if (null==mIMemoryShareProxy) {
+		if (null == mIMemoryShareProxy) {
 			Log.i(TAG, "mIMemoryShareProxy  is null.");
-			return ;
+			return;
 		}
 
 		mMemoryShare = new MemoryShare();
@@ -32,19 +32,21 @@ public class MemoryClient {
 			pfd = mIMemoryShareProxy.getShmFD();
 		} catch (RemoteException e1) {
 			e1.printStackTrace();
-			return ;
+			return;
 		}
+		
 		mMemoryShare.mmap(pfd.getFd());
 		mMemoryShare.read();
 	}
 
 	public void startService(Context context) {
 		Intent intentService = new Intent();
-		intentService.setClassName("com.example.android_memoryshare", "com.alibaba.laiwang.android.MemoryService");
+		intentService.setClassName("com.example.android_memoryshare",
+				"com.alibaba.laiwang.android.MemoryService");
 		Log.i(TAG, "Laiwang service is binding.");
 
 		mMemoryConnection = new MemoryConnection();
-		
+
 		boolean exitService = false;
 		try {
 			context.startService(intentService);
@@ -64,7 +66,6 @@ public class MemoryClient {
 		@Override
 		public void onServiceDisconnected(ComponentName name) {
 			// TODO Auto-generated method stub
-
 		}
 
 	}

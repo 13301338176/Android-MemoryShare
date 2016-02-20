@@ -14,7 +14,6 @@ public class MemoryShare {
 	}
 	
 	public int init() {
-		
 		this.mHandler = native_init();
 		return 0;
 	}

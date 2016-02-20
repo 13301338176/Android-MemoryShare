@@ -10,17 +10,16 @@ import android.os.ParcelFileDescriptor;
 import android.os.RemoteException;
 import android.util.Log;
 
-public class MemoryService extends Service{
-	
+public class MemoryService extends Service {
+
 	private static final String TAG = "libSHM";
 	private MemoryShare mMemoryShare;
 	private MemoryImpl mMemoryImpl;
-	
+
 	@Override
 	public void onCreate() {
-		
 		Log.e(TAG, "service onCreate");
-		
+
 		mMemoryImpl = new MemoryImpl();
 		mMemoryShare = new MemoryShare();
 		mMemoryShare.init();
@@ -28,10 +27,10 @@ public class MemoryService extends Service{
 		mMemoryShare.mmap(0);
 		mMemoryShare.write();
 		mMemoryShare.read();
-		
+
 		super.onCreate();
 	}
-	
+
 	@Override
 	public IBinder onBind(Intent intent) {
 		return mMemoryImpl;
@@ -40,13 +39,13 @@ public class MemoryService extends Service{
 	protected void onHandleIntent(Intent intent) {
 		Log.e(TAG, "intent");
 	}
-	
+
 	@Override
 	public void onDestroy() {
 		mMemoryShare.close();
 		super.onDestroy();
 	}
-	
+
 	class MemoryImpl extends IMemoryShare.Stub {
 
 		@SuppressLint("NewApi")
@@ -59,6 +58,6 @@ public class MemoryService extends Service{
 			}
 			return null;
 		}
-		
+
 	}
 }
