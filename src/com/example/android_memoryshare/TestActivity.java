@@ -1,13 +1,12 @@
 package com.example.android_memoryshare;
 
-import java.io.IOException;
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.os.Bundle;
-import android.os.MemoryFile;
 import android.os.ParcelFileDescriptor;
 import android.util.Log;
 import android.view.Menu;
+
 import com.alibaba.laiwang.android.MemoryShare;
 
 public class TestActivity extends Activity {

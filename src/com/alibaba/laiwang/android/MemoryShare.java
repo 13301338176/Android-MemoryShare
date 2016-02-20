@@ -3,8 +3,6 @@ package com.alibaba.laiwang.android;
 import android.os.Build;
 import android.os.Build.VERSION_CODES;
 
-
-
 public class MemoryShare {
 
 	static {
